@@ -1,0 +1,15 @@
+@import "../project.blocks/app/app.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.container {
+  padding-top: 30px;
+}
